@@ -1,6 +1,6 @@
 # Angular_Projects
 
-Here I will show all the projects I work on that related to Angular
+Here I will show all the projects I work on that related to Angular.
 
 First Project:
 - My first App:
